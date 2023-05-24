@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="coffee.png" />
+    <None Remove="cola.png" />
+    <None Remove="juice.png" />
+    <None Remove="tea.png" />
+    <None Remove="water.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ControlsLib\ControlsLib.csproj" />
+    <ProjectReference Include="..\SerializerLib\SerializerLib.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="coffee.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="cola.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="juice.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="tea.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="water.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

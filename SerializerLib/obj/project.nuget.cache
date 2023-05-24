@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mbkrgSd07CVWfGWbFEt4z5F79LjiiUvknX+yvTXQjeJVQbLxOmqm3fIydmtwpXjfBFpBXBKaiDo7sMn1L2KSKw==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\Практическая8\\SerializerLib\\SerializerLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anton\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

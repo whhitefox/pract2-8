@@ -1,0 +1,24 @@
+C:\Users\X-AROK\source\repos\Практическая8\SerializerLib\bin\Debug\net6.0\SerializerLib.deps.json
+C:\Users\X-AROK\source\repos\Практическая8\SerializerLib\bin\Debug\net6.0\SerializerLib.dll
+C:\Users\X-AROK\source\repos\Практическая8\SerializerLib\bin\Debug\net6.0\SerializerLib.pdb
+C:\Users\X-AROK\source\repos\Практическая8\SerializerLib\obj\Debug\net6.0\SerializerLib.csproj.AssemblyReference.cache
+C:\Users\X-AROK\source\repos\Практическая8\SerializerLib\obj\Debug\net6.0\SerializerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X-AROK\source\repos\Практическая8\SerializerLib\obj\Debug\net6.0\SerializerLib.AssemblyInfoInputs.cache
+C:\Users\X-AROK\source\repos\Практическая8\SerializerLib\obj\Debug\net6.0\SerializerLib.AssemblyInfo.cs
+C:\Users\X-AROK\source\repos\Практическая8\SerializerLib\obj\Debug\net6.0\SerializerLib.csproj.CoreCompileInputs.cache
+C:\Users\X-AROK\source\repos\Практическая8\SerializerLib\obj\Debug\net6.0\SerializerLib.dll
+C:\Users\X-AROK\source\repos\Практическая8\SerializerLib\obj\Debug\net6.0\refint\SerializerLib.dll
+C:\Users\X-AROK\source\repos\Практическая8\SerializerLib\obj\Debug\net6.0\SerializerLib.pdb
+C:\Users\X-AROK\source\repos\Практическая8\SerializerLib\obj\Debug\net6.0\ref\SerializerLib.dll
+D:\C# Projects\Практическая8\SerializerLib\bin\Debug\net6.0\SerializerLib.deps.json
+D:\C# Projects\Практическая8\SerializerLib\bin\Debug\net6.0\SerializerLib.dll
+D:\C# Projects\Практическая8\SerializerLib\bin\Debug\net6.0\SerializerLib.pdb
+D:\C# Projects\Практическая8\SerializerLib\obj\Debug\net6.0\SerializerLib.csproj.AssemblyReference.cache
+D:\C# Projects\Практическая8\SerializerLib\obj\Debug\net6.0\SerializerLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Практическая8\SerializerLib\obj\Debug\net6.0\SerializerLib.AssemblyInfoInputs.cache
+D:\C# Projects\Практическая8\SerializerLib\obj\Debug\net6.0\SerializerLib.AssemblyInfo.cs
+D:\C# Projects\Практическая8\SerializerLib\obj\Debug\net6.0\SerializerLib.csproj.CoreCompileInputs.cache
+D:\C# Projects\Практическая8\SerializerLib\obj\Debug\net6.0\SerializerLib.dll
+D:\C# Projects\Практическая8\SerializerLib\obj\Debug\net6.0\refint\SerializerLib.dll
+D:\C# Projects\Практическая8\SerializerLib\obj\Debug\net6.0\SerializerLib.pdb
+D:\C# Projects\Практическая8\SerializerLib\obj\Debug\net6.0\ref\SerializerLib.dll

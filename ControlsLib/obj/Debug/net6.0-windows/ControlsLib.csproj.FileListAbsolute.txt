@@ -1,0 +1,38 @@
+C:\Users\X-AROK\source\repos\Практическая8\ControlsLib\bin\Debug\net6.0-windows\ControlsLib.deps.json
+C:\Users\X-AROK\source\repos\Практическая8\ControlsLib\bin\Debug\net6.0-windows\ControlsLib.dll
+C:\Users\X-AROK\source\repos\Практическая8\ControlsLib\bin\Debug\net6.0-windows\ControlsLib.pdb
+C:\Users\X-AROK\source\repos\Практическая8\ControlsLib\obj\Debug\net6.0-windows\ControlsLib.csproj.AssemblyReference.cache
+C:\Users\X-AROK\source\repos\Практическая8\ControlsLib\obj\Debug\net6.0-windows\CardWithIcon.g.cs
+C:\Users\X-AROK\source\repos\Практическая8\ControlsLib\obj\Debug\net6.0-windows\ControlsLib_MarkupCompile.cache
+C:\Users\X-AROK\source\repos\Практическая8\ControlsLib\obj\Debug\net6.0-windows\ControlsLib_MarkupCompile.lref
+C:\Users\X-AROK\source\repos\Практическая8\ControlsLib\obj\Debug\net6.0-windows\CardWithIcon.baml
+C:\Users\X-AROK\source\repos\Практическая8\ControlsLib\obj\Debug\net6.0-windows\ControlsLib.g.resources
+C:\Users\X-AROK\source\repos\Практическая8\ControlsLib\obj\Debug\net6.0-windows\ControlsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X-AROK\source\repos\Практическая8\ControlsLib\obj\Debug\net6.0-windows\ControlsLib.AssemblyInfoInputs.cache
+C:\Users\X-AROK\source\repos\Практическая8\ControlsLib\obj\Debug\net6.0-windows\ControlsLib.AssemblyInfo.cs
+C:\Users\X-AROK\source\repos\Практическая8\ControlsLib\obj\Debug\net6.0-windows\ControlsLib.csproj.CoreCompileInputs.cache
+C:\Users\X-AROK\source\repos\Практическая8\ControlsLib\obj\Debug\net6.0-windows\ControlsLib.dll
+C:\Users\X-AROK\source\repos\Практическая8\ControlsLib\obj\Debug\net6.0-windows\refint\ControlsLib.dll
+C:\Users\X-AROK\source\repos\Практическая8\ControlsLib\obj\Debug\net6.0-windows\ControlsLib.pdb
+C:\Users\X-AROK\source\repos\Практическая8\ControlsLib\obj\Debug\net6.0-windows\ref\ControlsLib.dll
+C:\Users\X-AROK\source\repos\Практическая8\ControlsLib\obj\Debug\net6.0-windows\CheckListItem.g.cs
+C:\Users\X-AROK\source\repos\Практическая8\ControlsLib\obj\Debug\net6.0-windows\CheckListItem.baml
+D:\C# Projects\Практическая8\ControlsLib\bin\Debug\net6.0-windows\ControlsLib.deps.json
+D:\C# Projects\Практическая8\ControlsLib\bin\Debug\net6.0-windows\ControlsLib.dll
+D:\C# Projects\Практическая8\ControlsLib\bin\Debug\net6.0-windows\ControlsLib.pdb
+D:\C# Projects\Практическая8\ControlsLib\obj\Debug\net6.0-windows\ControlsLib.csproj.AssemblyReference.cache
+D:\C# Projects\Практическая8\ControlsLib\obj\Debug\net6.0-windows\CardWithIcon.g.cs
+D:\C# Projects\Практическая8\ControlsLib\obj\Debug\net6.0-windows\CheckListItem.g.cs
+D:\C# Projects\Практическая8\ControlsLib\obj\Debug\net6.0-windows\ControlsLib_MarkupCompile.cache
+D:\C# Projects\Практическая8\ControlsLib\obj\Debug\net6.0-windows\ControlsLib_MarkupCompile.lref
+D:\C# Projects\Практическая8\ControlsLib\obj\Debug\net6.0-windows\CardWithIcon.baml
+D:\C# Projects\Практическая8\ControlsLib\obj\Debug\net6.0-windows\CheckListItem.baml
+D:\C# Projects\Практическая8\ControlsLib\obj\Debug\net6.0-windows\ControlsLib.g.resources
+D:\C# Projects\Практическая8\ControlsLib\obj\Debug\net6.0-windows\ControlsLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Практическая8\ControlsLib\obj\Debug\net6.0-windows\ControlsLib.AssemblyInfoInputs.cache
+D:\C# Projects\Практическая8\ControlsLib\obj\Debug\net6.0-windows\ControlsLib.AssemblyInfo.cs
+D:\C# Projects\Практическая8\ControlsLib\obj\Debug\net6.0-windows\ControlsLib.csproj.CoreCompileInputs.cache
+D:\C# Projects\Практическая8\ControlsLib\obj\Debug\net6.0-windows\ControlsLib.dll
+D:\C# Projects\Практическая8\ControlsLib\obj\Debug\net6.0-windows\refint\ControlsLib.dll
+D:\C# Projects\Практическая8\ControlsLib\obj\Debug\net6.0-windows\ControlsLib.pdb
+D:\C# Projects\Практическая8\ControlsLib\obj\Debug\net6.0-windows\ref\ControlsLib.dll
